@@ -116,7 +116,7 @@ class Camion extends Vehiculo {
     }
 }
 
-//--polimorfismo:calse padre
+//--abstraccion y encapsulamineto
 
 class GestionVehiculos {
     private List<Vehiculo> listaVehiculos = new ArrayList<>();
